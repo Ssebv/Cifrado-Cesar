@@ -63,16 +63,14 @@ main {
     margin: 10px 0 0;
     padding: 10px;
     color: white;
-    border-top-left-radius: var(--borde-redondo);
-    border-top-right-radius: var(--borde-redondo);
+
 }
 
 #resultado {
     height: 20px;
     color: #5af78d;
     padding: 0 10px 10px;
-    border-bottom-left-radius: var(--borde-redondo);
-    border-bottom-right-radius: var(--borde-redondo);
+
 }
 
 .rango {
@@ -104,7 +102,6 @@ input[type='range']::-webkit-slider-thumb {
 .boton-formulario {
     line-height: 1.5em;
     padding: 0 10px;
-    border-radius: var(--borde-redondo);
     cursor: pointer;
     margin: 10px 0 0;
     color: black;
