@@ -9,6 +9,18 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+@media (max-width: 600px) {
+    /* reglas CSS para pantallas pequeñas */
+  }
+  
+  @media (min-width: 601px) and (max-width: 900px) {
+    /* reglas CSS para pantallas de tamaño mediano */
+  }
+  
+  @media (min-width: 901px) {
+    /* reglas CSS para pantallas grandes */
+  }
+
 #titulo {
     font-size: 2.3rem;
     margin: 0;
