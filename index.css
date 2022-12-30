@@ -63,6 +63,7 @@ main {
     margin: 10px 0 0;
     padding: 10px;
     color: white;
+    border-radius: 0;
 
 }
 
@@ -70,6 +71,7 @@ main {
     height: 20px;
     color: #5af78d;
     padding: 0 10px 10px;
+    border-radius: 0;
 
 }
 
